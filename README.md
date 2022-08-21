@@ -1,1 +1,1 @@
-# Python-Ebay-PriceChecker
+# Python - Ebay Price Checker via Email
